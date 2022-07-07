@@ -1,6 +1,6 @@
 body{
-    background-color: rgb(245, 229, 200);
-    height: 4000px;
+    background-color: rgb(216, 214, 225);
+    
 }
 section{
     margin-top: 50px;
@@ -49,5 +49,41 @@ section{
 }
 .card{
     border: none;
+    border-radius: 10px;
     box-shadow: 5px 5px 10px gray;
 }
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+    
+}
+#subscribe .btn-buy{
+    margin-top: 8px;
+}
+#subscribe h6{
+    color: gray;
+}
+.nav-shadow{
+    box-shadow: 3px 3px 5px gray;
+}
+footer{
+    text-align: center;
+}
+.btn{
+    border-color: #FF5898;
+}
+.btn:hover{
+    border-color: #FF5898;
+    color: white;
+    background-color: #FF5898;
+}
+.form-control{
+    border-color: #FF5898;
+}
+.form-control:focus {
+    border-color: #FF5898;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 5px #FF5898;
+  }
