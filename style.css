@@ -98,5 +98,16 @@ footer{
   .login-field{
     padding: 25px;
   }
-
+.nm-mail{
+    gap: 10px;
+}
+.social img{
+    padding: 5px;
+}
+.social{
+    padding: 25px;
+}
+.sing-login{
+    padding: 25px;
+}
   
