@@ -74,6 +74,10 @@ footer{
 }
 .btn{
     border-color: #FF5898;
+    
+}
+.nav-search{
+    padding-bottom: 2px;
 }
 .btn:hover{
     border-color: #FF5898;
@@ -109,5 +113,8 @@ footer{
 }
 .sing-login{
     padding: 25px;
+}
+.login-bar{
+    padding-bottom: 8px;
 }
   
